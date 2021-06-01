@@ -1,0 +1,4 @@
+Exercise 1: Create a project and it's virtualenvironment.
+Exercise 2: Install necessary packages in your virtualenvironment. (Flask)
+Exercise 3: In the root of the project, create a file "app.py". In this exercise, your are going to work on your To Do list application with Flask.
+We will implement functionallity to get To Do list, to create a To Do, to update a To Do and to delete a To Do.
